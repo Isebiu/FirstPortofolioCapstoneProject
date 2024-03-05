@@ -1,0 +1,35 @@
+Summary
+I am a social person, open to always learning something new to improve myself both
+professionally and personally. I like to actively participate in teams with good communication.
+I am passionate about both IT and automation. I like to challenge myself to resolve software
+and also hardware problems.
+
+Summer Practise
+Assist Software - Suceava
+Technical telecommunication internship
+Managed software and hardware internal tasks as well as client related ones such as:
+Building, configuring and testing computers for internal employees
+Installing hardware equipment and configuring internal networks for other companies
+Developed my cooperation, autonomy and customer service skills
+
+EXTRACURRICULAR
+-IT - Marathon, Web Development
+-I worked in a team of 3 people in which we developed a web application in 24 hours
+through which users could report the areas where there was garbage or dangerous
+objects for the environment posting a picture.
+-The project was made with .NET, Angular and MySQL
+-I created the visual interface using Angular
+
+EDUCATION
+Gheorghe Asachi Technical University of Iași
+Bachelor's Degree of Automatic Control and Applied Informatics
+Faculty of Automatic Control and Computer Engineering, Iași
+2019 – 2023
+Master’s Degree of Built-in control systems
+Faculty of Automatic Control and Computer Engineering, Iași
+2023 – Currently Pursuing
+Skills:
+Microsoft Office / Hardware/software troubleshooting C/ C++ / Matlab/Simulink / Java
+/ -SQL - Basic / Python
+Language skill: English B2
+
